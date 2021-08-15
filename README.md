@@ -111,8 +111,8 @@ Don't edit this part
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Ghost Music won't exist. 
-Ghost Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @Ghosthelper1 user
+This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Lexie Music won't exist. 
+Lexie Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @LexieMusic user
 
 #### Contribtors
 - [Vihara Senindu](https://github.com/viharasenindu): Owner
