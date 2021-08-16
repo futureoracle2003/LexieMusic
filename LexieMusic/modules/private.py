@@ -21,7 +21,7 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.types import InlineKeyboardButton
 from pyrogram.types import Message
-from .config import SOURCE_CODE
+from LexieMusic.config import SOURCE_CODE
 from LexieMusic.config import ASSISTANT_NAME
 from LexieMusic.config import PROJECT_NAME
 from LexieMusic.config import SUPPORT_GROUP
